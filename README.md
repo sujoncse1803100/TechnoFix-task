@@ -1,8 +1,50 @@
-# React + Vite
+React Todo List App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Overview:
+This project is a simple and responsive Todo List application built using React. The app allows users to manage their tasks by adding, editing, marking as completed, and deleting tasks. Each task has a status (completed or incomplete) and a priority (low, medium, high) represented by different colors.
 
-Currently, two official plugins are available:
+Features:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Task List Display:
+Displays a list of tasks with their respective status.
+Provides options to mark tasks as completed or delete them.
+Includes a counter for total tasks and completed tasks.
+
+Task Management:
+Ability to add a new task.
+Ability to edit existing tasks.
+Ability to mark tasks as completed.
+Ability to delete tasks.
+
+Local Storage Persistence:
+Tasks are stored in local storage, ensuring persistence even after a page refresh.
+
+Styling:
+I have done this project using raw css
+
+State Management: Utilizes react-redux, redux-toolkit and React hooks (useState, useEffect) for state management.
+
+Implements a basic filtering system based on task priority.
+
+Filtering System:
+Includes a basic filtering system based on task priority.
+
+React Components:
+Functional components are used throughout the application.
+State Management:
+
+Code Organization:
+Attention is given to code structure and organization for clarity.
+
+Responsiveness: Ensures a responsive design for a seamless user experience.
+
+To run the project locally:
+Clone the repository: git clone https://github.com/sujoncse1803100/TechnoFix-task
+Navigate to the project directory: cd TechnoFix-task
+Install dependencies: npm install
+Start the development server: npm run dev
+Open http://localhost:3000 to view the app in your browser.
+
+Submission
+Live link: https://main--technofix-todo-app-sujonali-querist.netlify.app/
+GitHub Repository: https://github.com/sujoncse1803100/TechnoFix-task
