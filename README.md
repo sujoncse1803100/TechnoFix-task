@@ -39,16 +39,11 @@ Attention is given to code structure and organization for clarity.
 Responsiveness: Ensures a responsive design for a seamless user experience.
 
 To run the project locally:
-Clone the repository: git clone https://github.com/sujoncse1803100/TechnoFix-task
-
+Clone the repository: git clone https://github.com/sujoncse1803100/TechnoFix-task<br>
 Navigate to the project directory: cd TechnoFix-task<br>
-
 Install dependencies: npm install<br>
-
 Start the development server: npm run dev<br>
-
 Open http://localhost:3000 to view the app in your browser.<br>
-
 Necessary Link :
 
 Live link: https://main--technofix-todo-app-sujonali-querist.netlify.app/
