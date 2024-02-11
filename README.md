@@ -44,8 +44,7 @@ Navigate to the project directory: cd TechnoFix-task<br>
 Install dependencies: npm install<br>
 Start the development server: npm run dev<br>
 Open http://localhost:3000 to view the app in your browser.<br>
-Necessary Link :
 
-Live link: https://main--technofix-todo-app-sujonali-querist.netlify.app/
-
+Necessary Link :<br>
+Live link: https://main--technofix-todo-app-sujonali-querist.netlify.app/<br>
 GitHub Repository: https://github.com/sujoncse1803100/TechnoFix-task
