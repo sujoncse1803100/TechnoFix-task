@@ -1,7 +1,7 @@
 React Todo List App
 
 Overview:
-This project is a simple and responsive Todo List application built using React. The app allows users to manage their tasks by adding, editing, marking as completed, and deleting tasks. Each task has a status (completed or incomplete) and a priority (low, medium, high) represented by different colors.
+This project is a simple and responsive Todo List application built using React. The app allows users to manage their tasks by adding, editing, marking as completed, and deleting tasks. Each task has a status (completed or incomplete) and a priority (low, medium, high).
 
 Features:
 
