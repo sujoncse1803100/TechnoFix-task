@@ -17,7 +17,7 @@ Ability to mark tasks as completed.
 Ability to delete tasks.
 
 Local Storage Persistence:
-Tasks are stored in local storage, ensuring persistence even after a page refresh.
+Tasks are stored in redux inital state at the time of first experiance of the user. Then if the user interact with the application by making any type of action like adding task, edit task, delete task ect. then the state of the tasks the redux state change and at the same time the tasks are stored in local storage, ensuring persistence even after a page refresh.
 
 Styling:
 I have done this project using raw css
