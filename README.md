@@ -17,7 +17,7 @@ Ability to mark tasks as completed.
 Ability to delete tasks.
 
 Local Storage Persistence:
-Tasks are stored in inital state of redux at the time of first experiance of the user. Then if the user interact with the application by making any type of action like adding task, edit task, delete task ect. then the state of the tasks the redux state change and at the same time the tasks are stored in local storage, ensuring persistence even after a page refresh.
+Tasks are stored in inital state of redux at the time of first experiance of a user. Then if the user interact with the application by making any type of action like adding task, edit task, delete task ect. then the state of the tasks the redux state change and at the same time the tasks are stored in local storage, ensuring persistence even after a page refresh.
 
 Styling:
 I have done this project using raw css
@@ -37,12 +37,12 @@ Attention is given to code structure and organization for clarity.
 
 Responsiveness: Ensures a responsive design for a seamless user experience.
 
-To run the project locally:
+To run the project locally:<br>
 Clone the repository: git clone https://github.com/sujoncse1803100/TechnoFix-task<br>
 Navigate to the project directory: cd TechnoFix-task<br>
 Install dependencies: npm install<br>
 Start the development server: npm run dev<br>
-Open http://localhost:3000 to view the app in your browser.<br>
+Open http://localhost:5173/ to view the app in your browser.<br>
 
 Necessary Link :<br>
 Live link: https://main--technofix-todo-app-sujonali-querist.netlify.app/<br>
