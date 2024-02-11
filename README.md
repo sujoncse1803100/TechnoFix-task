@@ -31,7 +31,6 @@ Includes a basic filtering system based on task priority.
 
 React Components:
 Functional components are used throughout the application.
-State Management:
 
 Code Organization:
 Attention is given to code structure and organization for clarity.
