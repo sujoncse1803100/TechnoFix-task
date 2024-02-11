@@ -45,6 +45,7 @@ Install dependencies: npm install
 Start the development server: npm run dev
 Open http://localhost:3000 to view the app in your browser.
 
-Submission
+Necessary Link :
 Live link: https://main--technofix-todo-app-sujonali-querist.netlify.app/
+
 GitHub Repository: https://github.com/sujoncse1803100/TechnoFix-task
