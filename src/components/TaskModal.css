@@ -1,0 +1,51 @@
+.task-modal {
+  width: 400px;
+  background: #fff;
+  padding: 20px;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+
+.task-input-container {
+  width: 100%;
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.task-title {
+  flex: 2;
+  font-weight: bold;
+}
+
+.input-container {
+  flex: 5;
+}
+
+.input-container > input,
+select {
+  width: 100%;
+  padding: 5px;
+  outline: none;
+  border-radius: 5px;
+  box-sizing: border-box;
+}
+
+.task-btn-container {
+  width: 100%;
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.task-btn-container > button {
+  width: 40%;
+  background: yellow;
+}
+
+.error {
+  color: red;
+}
